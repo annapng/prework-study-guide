@@ -11,7 +11,7 @@ N/A
 
 ## Usage
 
-Each section contains different notes about the various subjects I learned about. I included extra notes about my biggest difficult part - Git. If you ihnspect, you'll be able to find the console and the Javascript working well inside of it.
+Each section contains different notes about the various subjects I learned about. I included extra notes about my biggest difficult part - Git. If you inspect, you'll be able to find the console and the Javascript working well inside of it.
 
 ## Credits
 
